@@ -4,7 +4,7 @@ A quick Python app that converts a csv in the below format into a PDF with a tit
 pages that have been specified in the csv file.
 
 ### Format Required:
-Order, Topic, Pages
+Order,Topic,Pages
 
 1,Variables,2
 
