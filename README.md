@@ -16,3 +16,7 @@ Order,Topic,Pages
 In the above examples, you would get a PDF generated that has 3 titles; Variables, Lists and Functions. For each of
 these pages you'll get the amount of pages specified minus 1 extra underneath it.
 So you Variables, you'll have a title page (first page) plus one extra page.
+
+
+I could possbily in the future make this into a website where you can upload a csv file and it can generate a PDF 
+for you to download on the fly.
