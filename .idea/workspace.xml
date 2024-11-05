@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55ee23b0-d02e-41e3-91ae-c571d30aedc9" name="Changes" comment="Added customisation&#10;&#10;- Added functionality to customise between lined on unlined pages. You can also specify how large you would like the line spacing to be.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="55ee23b0-d02e-41e3-91ae-c571d30aedc9" name="Changes" comment="Created a website&#10;&#10;- Made the console app into a website." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,15 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Developement/Python/pdf_maker"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Developement/Python/pdf_maker&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Developement\Python\pdf_maker" />
@@ -115,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730746351948</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created a website&#10;&#10;- Made the console app into a website.">
+      <option name="closed" value="true" />
+      <created>1730834755096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730834755096</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +128,7 @@
     <MESSAGE value="Fixed funny spelling mistake." />
     <MESSAGE value="Fixed read me file." />
     <MESSAGE value="Added customisation&#10;&#10;- Added functionality to customise between lined on unlined pages. You can also specify how large you would like the line spacing to be." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added customisation&#10;&#10;- Added functionality to customise between lined on unlined pages. You can also specify how large you would like the line spacing to be." />
+    <MESSAGE value="Created a website&#10;&#10;- Made the console app into a website." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a website&#10;&#10;- Made the console app into a website." />
   </component>
 </project>
