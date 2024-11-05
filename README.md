@@ -21,5 +21,7 @@ So you Variables, you'll have a title page (first page) plus one extra page.
 
 # Future Plans
 
-I could possbily in the future make this into a website where you can upload a csv file and it can generate a PDF 
-for you to download on the fly.
+~~I could possbily in the future make this into a website where you can upload a csv file and it can generate a PDF 
+for you to download on the fly.~~
+
+It has now been made into a website!

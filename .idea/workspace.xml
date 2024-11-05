@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55ee23b0-d02e-41e3-91ae-c571d30aedc9" name="Changes" comment="Fixed read me file.">
+    <list default="true" id="55ee23b0-d02e-41e3-91ae-c571d30aedc9" name="Changes" comment="Added customisation&#10;&#10;- Added functionality to customise between lined on unlined pages. You can also specify how large you would like the line spacing to be.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -23,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JackDKillelea"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JackDKillelea&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JackDKillelea/python-csv-to-pdf.git",
-    "accountId": "ea1edd02-b220-4287-aec5-e0dad8e9f00e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JackDKillelea/python-csv-to-pdf.git&quot;,
+    &quot;accountId&quot;: &quot;ea1edd02-b220-4287-aec5-e0dad8e9f00e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2oONhilXdKrsjsXYfe7BMzfUb52" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,7 +49,8 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Developement/Python/pdf_maker"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -106,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1730739091869</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added customisation&#10;&#10;- Added functionality to customise between lined on unlined pages. You can also specify how large you would like the line spacing to be.">
+      <option name="closed" value="true" />
+      <created>1730746351948</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730746351948</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Fixed funny spelling mistake." />
     <MESSAGE value="Fixed read me file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed read me file." />
+    <MESSAGE value="Added customisation&#10;&#10;- Added functionality to customise between lined on unlined pages. You can also specify how large you would like the line spacing to be." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added customisation&#10;&#10;- Added functionality to customise between lined on unlined pages. You can also specify how large you would like the line spacing to be." />
   </component>
 </project>
